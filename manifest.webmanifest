@@ -1,0 +1,8 @@
+{
+    "name": "Sensors",
+    "start_url": "http://henrivdstelt.github.io/Sensors/",
+    "display": "standalone",
+    "icons": [
+        { "src": "icons/logo192.png", "sizes": "192x192", "type": "image/png" }
+    ]
+}
